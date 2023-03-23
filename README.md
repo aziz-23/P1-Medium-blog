@@ -13,4 +13,4 @@ This project analyses the Seattle Airbnb dataset from kaggle with 3 main questio
 ------------------------------------------
 
 You need to install Pandas, Numpy, and Plotly libraries in order to run the code.
-The repository contains a python notebook, and a folder contains the data I worked with.
+The repository contains a jupyter notebook, and a folder contains the data I worked with.
