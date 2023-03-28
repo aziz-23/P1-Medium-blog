@@ -1,16 +1,40 @@
 # P1-Medium-blog
 
+Installations:
+
+- Pandas
+- Numpy
+- Plotly
+
+-----------------------------------------
+Project Motivation:
+
 This project is part of the DataScience Nanodegree from udacity
-The idea is the to analyze data and write a blog about it
+The idea is the to analyze data and write a blog about it.<br>
+The project is an analyses of the Seattle Airbnb dataset from kaggle.
 
 ------------------------------------------
 
-This project analyses the Seattle Airbnb dataset from kaggle with 3 main question:
-1- What is the percentage of occupied rooms?
-2- How do the Prices of rooms change across the year?
-3- What is the cheapest neighborhood to rent a room?
+File Descriptions:
 
-------------------------------------------
+- Analysis.ipynb: notebook with the analysis
+- Data: folder contains the data
+- and images of the charts used in the blog
 
-You need to install Pandas, Numpy, and Plotly libraries in order to run the code.
-The repository contains a jupyter notebook, and a folder contains the data I worked with.
+Usage:
+
+You only need to run the notebook without any modification.
+
+---------------------------------------------
+
+Summary:
+
+There in no one option to chose when visiting Seattle. <br>
+although I showed the time of the year where the rooms are cheaper, and what neighbourhoods are cheap, yet it is highly dependent on your case, like taking weather into consideration, your plan to spend your days, and other factors.
+<a href=https://medium.com/@aziz.office22/when-to-visit-seattle-995b6b5e8b9a>Blog</a>
+
+
+
+Acknowledgment:
+
+<a href=https://www.kaggle.com/datasets/airbnb/seattle>Dataset </a>
